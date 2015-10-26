@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1445865695 source:f:\file_jszhujun\mooc\caltechcpp\rational\test-rational.cpp
+	"testbase.h"
+	"rational.h"
+	<sstream>
+
+1445034522 f:\file_jszhujun\mooc\caltechcpp\rational\testbase.h
+	<iostream>
+	<set>
+	<string>
+	<cmath>
+
+1445867922 f:\file_jszhujun\mooc\caltechcpp\rational\rational.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1445865700 source:f:\file_jszhujun\mooc\caltechcpp\rational\testbase.cpp
+	"testbase.h"
+	<cassert>
+	<cstdlib>
+	<sstream>
+
