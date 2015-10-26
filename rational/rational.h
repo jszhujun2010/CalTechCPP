@@ -2,8 +2,6 @@
 #include <string>
 #include <stdexcept>
 
-using namespace std;
-
 class Rational {
 public:
     Rational(): numerator(0), denominator(1) {}
