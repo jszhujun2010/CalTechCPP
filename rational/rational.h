@@ -75,7 +75,7 @@ public:
         else {
             return os << obj.num() << "/" << obj.denom();
         }
-    };
+    }
 
 
     /*Here, we assume that a>0, b>0*/

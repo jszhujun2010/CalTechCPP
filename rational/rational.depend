@@ -10,7 +10,7 @@
 	<string>
 	<cmath>
 
-1445867922 f:\file_jszhujun\mooc\caltechcpp\rational\rational.h
+1445868715 f:\file_jszhujun\mooc\caltechcpp\rational\rational.h
 	<iostream>
 	<string>
 	<stdexcept>
@@ -20,4 +20,10 @@
 	<cassert>
 	<cstdlib>
 	<sstream>
+
+1445867724 source:f:\file_jszhujun\mooc\caltechcpp\rational\rational.cpp
+	"rational.h"
+	<iostream>
+	<string>
+	<stdexcept>
 
